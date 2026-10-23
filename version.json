@@ -1,6 +1,6 @@
 {
-  "build": 76,
+  "build": 77,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/kunal9430/GridWords-releases/releases/download/build-76/GridWords.apk",
-  "notes": "Online play enhanced\nSmarter notifications\nGWCoins sign-in reward"
+  "apkUrl": "https://github.com/kunal9430/GridWords-releases/releases/download/build-77/GridWords.apk",
+  "notes": "Online and offline games share one leaderboard\nTurn banner removed - leaderboard shows whose turn it is\nQuick Leave icon in the waiting room"
 }
